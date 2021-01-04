@@ -21,9 +21,9 @@ public class DatabaseConnection {
     public static Connection getConnection() throws SQLException {
         
         /* Database credentials >> username , password , hostname , port , SID  */
-        setUNamee("csil");
-        setUpasss("csil");
-        setUipp("192.168.2.2");
+        setUNamee("democsil");
+        setUpasss("democsil");
+        setUipp("207.180.246.67");
         setUportADF("1521");
         setUSID("orcl");
         /* END  */
