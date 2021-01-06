@@ -5,19 +5,19 @@
    <View
       id="View2">
       <property
-         name="activityId">Assessment_Types</property>
+         name="activityId">Student_School_Leaving_Transfer</property>
       <property
          name="pageFragment">true</property>
       <property
-         name="x">731.0</property>
+         name="x">660.0</property>
       <property
          name="start">false</property>
       <property
-         name="description">&lt;html>&lt;p>&lt;b>Assessment_Types&lt;/b>&lt;/p>&lt;p>Activity Type:  View&lt;/p></property>
+         name="description">&lt;html>&lt;p>&lt;b>Student_School_Leaving_Transfer&lt;/b>&lt;/p>&lt;p>Activity Type:  View&lt;/p></property>
       <property
-         name="y">284.84473</property>
+         name="y">247.5459</property>
       <property
-         name="page">/WEB-INF/Fragments/Group/Company/SBU/Modules/School_Management_System/Staff/Assessment_Types.jsff</property>
+         name="page">/WEB-INF/Fragments/Group/Company/SBU/Modules/School_Management_System/Evaluation_Module/Student_School_Leaving_Transfer.jsff</property>
       <property
          name="exceptionHandler">false</property>
    </View>
@@ -26,13 +26,13 @@
       <property
          name="activityId">ExecuteWithParams</property>
       <property
-         name="x">280.35156</property>
+         name="x">295.35156</property>
       <property
          name="start">true</property>
       <property
          name="description">&lt;html>&lt;p>&lt;b>ExecuteWithParams&lt;/b> (Default Activity)&lt;/p>&lt;p>Activity Type:  Method Call&lt;/p></property>
       <property
-         name="y">401.1494</property>
+         name="y">413.1494</property>
       <property
          name="exceptionHandler">false</property>
    </MethodCall>
@@ -44,6 +44,6 @@
       <property
          name="fromOutcome">ExecuteWithParams</property>
       <property
-         name="sdm:polyPoints">R50,321.35156,400.79883,690.0,284.49414,L50</property>
+         name="sdm:polyPoints">R50,336.35156,412.79883,619.0,247.19531,L50</property>
    </ControlFlowCase>
 </SDM>
