@@ -27,7 +27,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b1"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.GenSetupFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -43,7 +43,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b2"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.StdMngFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -59,7 +59,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b5"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.PrtStdPortalFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -77,7 +77,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b45"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.StaffMngFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -94,7 +94,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b4"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.FeeMngFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -110,7 +110,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b64"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.EvalModuleFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -127,7 +127,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b3"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.TransFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -143,7 +143,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b6"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.PageIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.LibrFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>
@@ -168,7 +168,7 @@
                                                 <!--<af:outputText value="#{item.rowIterator.rowCount}" id="ot1" />-->
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b7"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.ReportIcon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.ReportIcon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.SchlMngmtModuleBoard_SidebarBean.ReportFragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.ReportLink.inputValue}"/>
                                                 </af:button>

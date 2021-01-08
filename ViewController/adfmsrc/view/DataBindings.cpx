@@ -515,6 +515,12 @@
           usageId="view_Student_Promotion_TaskFlow_Student_Promotion_TaskFlow_ExecuteWithParamsPageDef"/>
     <page path="/WEB-INF/TaskFlows/Group/Company/SBU/Modules/School_Management_System/Evaluation_Module/Student_School_Leaving_Transfer_TaskFlow.xml#Student_School_Leaving_Transfer_TaskFlow@ExecuteWithParams"
           usageId="view_Student_School_Leaving_Transfer_TaskFlow_Student_School_Leaving_Transfer_TaskFlow_ExecuteWithParamsPageDef"/>
+    <page path="/WEB-INF/TaskFlows/Group/Company/SBU/Modules/School_Management_System/Staff/Material_Requisition_TaskFlow.xml#Material_Requisition_TaskFlow@ExecuteWithParams"
+          usageId="view_Material_Requisition_TaskFlow_Material_Requisition_TaskFlow_ExecuteWithParamsPageDef"/>
+    <page path="/WEB-INF/TaskFlows/Group/Company/SBU/Modules/School_Management_System/Staff/Notification_Email_TaskFlow.xml#Notification_Email_TaskFlow@ExecuteWithParams"
+          usageId="view_Notification_Email_TaskFlow_Notification_Email_TaskFlow_ExecuteWithParamsPageDef1"/>
+    <page path="/WEB-INF/TaskFlows/Group/Company/SBU/Modules/School_Management_System/Fee_Management/Discount_Policy_Appl_Mng_TaskFlow.xml#Discount_Policy_Appl_Mng_TaskFlow@ExecuteWithParams"
+          usageId="view_Discount_Policy_Appl_Mng_TaskFlow_Discount_Policy_Appl_Mng_TaskFlow_ExecuteWithParamsPageDef"/>
   </pageMap>
   <pageDefinitionUsages>
     <page id="view_GroupPageDef" path="Main_Pages.Group.GroupPageDef"/>
@@ -997,6 +1003,12 @@
           path="TaskFlows.Group.Company.SBU.Modules.School_Management_System.Evaluation_Module.Student_Promotion_TaskFlow_Student_Promotion_TaskFlow_ExecuteWithParamsPageDef"/>
     <page id="view_Student_School_Leaving_Transfer_TaskFlow_Student_School_Leaving_Transfer_TaskFlow_ExecuteWithParamsPageDef"
           path="TaskFlows.Group.Company.SBU.Modules.School_Management_System.Evaluation_Module.Student_School_Leaving_Transfer_TaskFlow_Student_School_Leaving_Transfer_TaskFlow_ExecuteWithParamsPageDef"/>
+    <page id="view_Material_Requisition_TaskFlow_Material_Requisition_TaskFlow_ExecuteWithParamsPageDef"
+          path="TaskFlows.Group.Company.SBU.Modules.School_Management_System.Staff.Material_Requisition_TaskFlow_Material_Requisition_TaskFlow_ExecuteWithParamsPageDef"/>
+    <page id="view_Notification_Email_TaskFlow_Notification_Email_TaskFlow_ExecuteWithParamsPageDef1"
+          path="TaskFlows.Group.Company.SBU.Modules.School_Management_System.Staff.Notification_Email_TaskFlow_Notification_Email_TaskFlow_ExecuteWithParamsPageDef"/>
+    <page id="view_Discount_Policy_Appl_Mng_TaskFlow_Discount_Policy_Appl_Mng_TaskFlow_ExecuteWithParamsPageDef"
+          path="TaskFlows.Group.Company.SBU.Modules.School_Management_System.Fee_Management.Discount_Policy_Appl_Mng_TaskFlow_Discount_Policy_Appl_Mng_TaskFlow_ExecuteWithParamsPageDef"/>
   </pageDefinitionUsages>
   
   <!--<pageDefinitionUsages>

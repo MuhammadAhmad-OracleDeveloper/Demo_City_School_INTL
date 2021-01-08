@@ -173,7 +173,7 @@
                             <af:iterator id="i2" var="index" varStatus="status"
                                          value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                 <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                           icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                           icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                            actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                     <f:attribute name="AcLslink" value="#{index.bindings.Bindingname.inputValue}"/>
                                 </af:button>
@@ -609,7 +609,7 @@
                                     <af:iterator id="i13" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}1"/>
@@ -779,7 +779,7 @@
                                     <af:iterator id="i3" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}2"/>
@@ -877,7 +877,7 @@
                                     <af:iterator id="i4" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}3"/>
@@ -975,7 +975,7 @@
                                     <af:iterator id="i5" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}4"/>
@@ -1183,7 +1183,7 @@
                                     <af:iterator id="i6" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}5"/>
@@ -1384,7 +1384,7 @@
                                     <af:iterator id="i7" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}6"/>
@@ -1481,7 +1481,7 @@
                                     <af:iterator id="i8" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}7"/>
@@ -1667,7 +1667,7 @@
                                     <af:iterator id="i9" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}8"/>
@@ -1834,7 +1834,7 @@
                                                 <af:iterator id="i10" var="index" varStatus="status"
                                                              value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                                     <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                               icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                               icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                                actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                                         <f:attribute name="AcLslink"
                                                                      value="#{index.bindings.Bindingname.inputValue}9"/>
@@ -1948,7 +1948,7 @@
                                                 <af:iterator id="i11" var="index" varStatus="status"
                                                              value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                                     <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                               icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                               icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                                actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                                         <f:attribute name="AcLslink"
                                                                      value="#{index.bindings.Bindingname.inputValue}10"/>
@@ -2032,7 +2032,7 @@
                                     <af:iterator id="i12" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}11"/>
@@ -2186,7 +2186,7 @@
                                     <af:iterator id="i14" var="index" varStatus="status"
                                                  value="#{bindings.USERS_CRUD_OPERATIONS1.collectionModel}">
                                         <af:button id="btn#{status.index+1}" text="#{index.Operation}"
-                                                   icon="/css/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
+                                                   icon="/democss/faces/javax.faces.resource/#{index.bindings.icon.inputValue}?ln=images"
                                                    actionListener="#{USERS_CRUD_BEAN.get_users_crud_bind}">
                                             <f:attribute name="AcLslink"
                                                          value="#{index.bindings.Bindingname.inputValue}12"/>

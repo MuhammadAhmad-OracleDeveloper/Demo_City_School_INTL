@@ -26,7 +26,7 @@
                                             <af:panelGroupLayout id="pgl3" layout="vertical" inlineStyle="padding: 4%;">
                                                 <af:button text="#{item.bindings.Name.inputValue}" id="b1"
                                                            styleClass="sidebar_button"
-                                                           icon="/css/faces/javax.faces.resource/#{item.bindings.Icon.inputValue}?ln=images"
+                                                           icon="/democss/faces/javax.faces.resource/#{item.bindings.Icon.inputValue}?ln=images"
                                                            actionListener="#{viewScope.UserManagementSidebarBean.fragmentCall}">
                                                     <f:attribute name="link" value="#{item.bindings.PageLink.inputValue}"/>
                                                 </af:button>

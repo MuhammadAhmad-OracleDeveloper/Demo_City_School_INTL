@@ -15,7 +15,7 @@
                                              varStatus="status">
                                     <af:panelGroupLayout id="pgl9" layout="vertical" inlineStyle="padding-top: 24%;">
                                         <af:link id="l6" destination="/faces/#{item.bindings.Link.inputValue}"
-                                                 icon="/css/faces/javax.faces.resource/#{item.bindings.Icon.inputValue}?ln=images"/>
+                                                 icon="/democss/faces/javax.faces.resource/#{item.bindings.Icon.inputValue}?ln=images"/>
                                     </af:panelGroupLayout>
                                 </af:iterator>
                             </af:panelGroupLayout>
@@ -70,7 +70,7 @@
                 <af:link id="l6" inlineStyle="font-size:large; color: Black;font-weight: bold;"
                 action="#{LoginsBean.getMODID(item.bindings.ModuleId.inputValue)}"
                 text="#{item.bindings.Modulename.inputValue}"
-                         icon="/css/faces/javax.faces.resource/#{item.bindings.Icon.inputValue}?ln=images"
+                         icon="/democss/faces/javax.faces.resource/#{item.bindings.Icon.inputValue}?ln=images"
                          iconPosition="top"/>
                                         <af:spacer width="10" height="10" id="s1"/>
                                         
